@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home_list"
+        android:icon="@drawable/icon_home"
+        android:title="主页" />
+    <item
+        android:id="@+id/menu_home_message"
+        android:icon="@drawable/icon_message"
+        android:title="消息" />
+    <item
+        android:id="@+id/menu_home_mine"
+        android:icon="@drawable/icon_person"
+        android:title="我的" />
+</menu>

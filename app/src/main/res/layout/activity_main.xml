@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <Button
+        android:id="@+id/btn_to_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="登录页"/>
+    <Button
+        android:id="@+id/btn_to_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="注册页"/>
+
+    <Button
+        android:id="@+id/btn_to_update_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="修改信息页"/>
+
+    <Button
+        android:id="@+id/btn_to_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="主页"/>
+
+    <Button
+        android:id="@+id/btn_to_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="去详情页"/>
+
+    <Button
+        android:id="@+id/btn_to_splash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="去封面"/>
+
+
+</LinearLayout>

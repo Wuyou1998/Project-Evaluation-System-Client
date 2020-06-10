@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Boss直评</string>
+    <string name="label_permission_network">网络访问</string>
+    <string name="label_permission_network_desc">用于即时通讯传输</string>
+    <string name="label_permission_read">读取文件</string>
+    <string name="label_permission_read_desc">用于设置头像与发送图片</string>
+    <string name="label_permission_write">写外部文件</string>
+    <string name="label_permission_write_desc">用于OSS日志存储</string>
+    <string name="label_permission_record_audio">麦克风</string>
+    <string name="label_permission_record_audio_desc">用于音频聊天</string>
+    <string name="label_permission_submit">授权</string>
+    <string name="label_permission_ok">授权成功！</string>
+
+    <string name="label_update_info_tips">个人信息</string>
+    <string name="label_login_welcome">登录</string>
+    <string name="label_submit">提交</string>
+    <string name="label_login">登录</string>
+    <string name="label_phone">电话</string>
+    <string name="label_register_welcome">欢迎您!</string>
+    <string name="label_register">注册</string>
+    <string name="label_password">密码</string>
+    <string name="label_portrait_tips">选择你的专属头像</string>
+    <string name="label_name">名字</string>
+    <string name="label_desc_tips">用一句话介绍自己</string>
+    <string name="label_sex_man">男</string>
+    <string name="label_sex_woman">女</string>
+    <string name="label_go_register">没有账户？去注册</string>
+    <string name="label_go_login">已有账户？去登录</string>
+
+    <string name="label_follows">Follows\n%d</string>
+    <string name="label_following">Following\n%d</string>
+    <string name="label_gallery_select_max_size">至多选择%d张</string>
+    <string name="label_gallery_selected_size">已选%s张</string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string-array name="level">
+        <item>未选择</item>
+        <item>校级</item>
+        <item>省部级</item>
+        <item>国家级</item>
+    </string-array>
+</resources>
